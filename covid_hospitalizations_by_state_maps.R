@@ -153,7 +153,8 @@ if (cdc_update_date > last_cdc_update_date) {
   cdc_cdt_df_new <- cdc_cdt_data_raw %>% 
     pluck("US_MAP_DATA") %>% 
     map_dfr(`[`) %>% 
-    mutate(data_update_dte = cdc_update_date)
+    mutate(data_update_dte = cdc_update_date,
+           across(everything(), as.character))
   
   cdc_cdt_df_full <- bind_rows(cdc_cdt_df_new, cdc_cdt_df)
   
