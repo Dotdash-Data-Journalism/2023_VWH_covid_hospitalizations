@@ -1,52 +1,52 @@
 abbr,fips,name,collection_date,total_adm_all_covid_confirmed_past_7days_per_100k,pct_chg_avg_adm_all_covid_confirmed_per_100k
-AK,02,Alaska,2023-12-30,4.65,61.9
-AL,01,Alabama,2023-12-30,11.01,28.3
-AR,05,Arkansas,2023-12-30,10.57,10
-AZ,04,Arizona,2023-12-30,8.86,22.6
-CA,06,California,2023-12-30,8.9,7.4
-CO,08,Colorado,2023-12-30,8.09,8.6
-CT,09,Connecticut,2023-12-30,13.35,30.8
-DC,11,District of Columbia,2023-12-30,9.07,-14.7
-DE,10,Delaware,2023-12-30,10.68,2
-FL,12,Florida,2023-12-30,8.12,22.6
-GA,13,Georgia,2023-12-30,8.79,73.4
-HI,15,Hawaii,2023-12-30,5.72,-8
-IA,19,Iowa,2023-12-30,12.9,-1
-ID,16,Idaho,2023-12-30,8.28,0.7
-IL,17,Illinois,2023-12-30,12.35,11.9
-IN,18,Indiana,2023-12-30,13.9,16.1
-KS,20,Kansas,2023-12-30,10.5,12.1
-KY,21,Kentucky,2023-12-30,12.69,8.6
-LA,22,Louisiana,2023-12-30,7.79,18.3
-MA,25,Massachusetts,2023-12-30,15.9,28.9
-MD,24,Maryland,2023-12-30,9.1,24.4
-ME,23,Maine,2023-12-30,9.45,21
-MI,26,Michigan,2023-12-30,13.24,19
-MN,27,Minnesota,2023-12-30,10.59,12.6
-MO,29,Missouri,2023-12-30,12.97,4.3
-MS,28,Mississippi,2023-12-30,6.45,29.7
-MT,30,Montana,2023-12-30,9.08,-6.7
-NC,37,North Carolina,2023-12-30,8.62,30.8
-ND,38,North Dakota,2023-12-30,12.86,28.9
-NE,31,Nebraska,2023-12-30,11.68,-10.3
-NH,33,New Hampshire,2023-12-30,9.05,-6.1
-NJ,34,New Jersey,2023-12-30,14.84,40.4
-NM,35,New Mexico,2023-12-30,5.82,-9.6
-NV,32,Nevada,2023-12-30,8.18,6.3
-NY,36,New York,2023-12-30,15.93,30.2
-OH,39,Ohio,2023-12-30,15.19,21.5
-OK,40,Oklahoma,2023-12-30,10.49,11.6
-OR,41,Oregon,2023-12-30,6.8,44.9
-PA,42,Pennsylvania,2023-12-30,13.58,39.7
-RI,44,Rhode Island,2023-12-30,10.48,13.3
-SC,45,South Carolina,2023-12-30,9.3,24.4
-SD,46,South Dakota,2023-12-30,14.92,4.8
-TN,47,Tennessee,2023-12-30,10.44,38.7
-TX,48,Texas,2023-12-30,7.19,17.5
-UT,49,Utah,2023-12-30,7.39,20.3
-VA,51,Virginia,2023-12-30,11.88,28.4
-VT,50,Vermont,2023-12-30,8.97,3.7
-WA,53,Washington,2023-12-30,4.68,16.3
-WI,55,Wisconsin,2023-12-30,13,21.7
-WV,54,West Virginia,2023-12-30,19.14,17.5
-WY,56,Wyoming,2023-12-30,8.98,36.8
+AK,02,Alaska,2024-01-06,3.96,-14.7
+AL,01,Alabama,2024-01-06,11.34,5.9
+AR,05,Arkansas,2024-01-06,13.29,30.6
+AZ,04,Arizona,2024-01-06,8.5,-3.1
+CA,06,California,2024-01-06,9.4,-0.1
+CO,08,Colorado,2024-01-06,8.04,1.3
+CT,09,Connecticut,2024-01-06,11.58,-12.3
+DC,11,District of Columbia,2024-01-06,12.19,14.7
+DE,10,Delaware,2024-01-06,11.3,2.8
+FL,12,Florida,2024-01-06,9.67,18.4
+GA,13,Georgia,2024-01-06,9.86,12.6
+HI,15,Hawaii,2024-01-06,7.63,33.3
+IA,19,Iowa,2024-01-06,12.08,-6.2
+ID,16,Idaho,2024-01-06,11.75,13.5
+IL,17,Illinois,2024-01-06,11.01,-14.9
+IN,18,Indiana,2024-01-06,13.34,0.9
+KS,20,Kansas,2024-01-06,10.88,-1.2
+KY,21,Kentucky,2024-01-06,11.37,-14
+LA,22,Louisiana,2024-01-06,8.93,9.8
+MA,25,Massachusetts,2024-01-06,14.74,-6.3
+MD,24,Maryland,2024-01-06,10.09,7
+ME,23,Maine,2024-01-06,10.42,11.1
+MI,26,Michigan,2024-01-06,12.86,-1.4
+MN,27,Minnesota,2024-01-06,9.65,-8.9
+MO,29,Missouri,2024-01-06,13.02,2.3
+MS,28,Mississippi,2024-01-06,7.66,18.1
+MT,30,Montana,2024-01-06,12.35,40.4
+NC,37,North Carolina,2024-01-06,8.08,-4.6
+ND,38,North Dakota,2024-01-06,7.87,-40
+NE,31,Nebraska,2024-01-06,11.89,-2.1
+NH,33,New Hampshire,2024-01-06,13.9,61.5
+NJ,34,New Jersey,2024-01-06,15.49,0.2
+NM,35,New Mexico,2024-01-06,5.29,-14.6
+NV,32,Nevada,2024-01-06,7.76,-7.4
+NY,36,New York,2024-01-06,17.01,11.6
+OH,39,Ohio,2024-01-06,12.71,-15.8
+OK,40,Oklahoma,2024-01-06,9.91,-4.4
+OR,41,Oregon,2024-01-06,7.3,9.6
+PA,42,Pennsylvania,2024-01-06,13.29,2.3
+RI,44,Rhode Island,2024-01-06,13.22,26.1
+SC,45,South Carolina,2024-01-06,10.47,12.1
+SD,46,South Dakota,2024-01-06,13.45,-9.8
+TN,47,Tennessee,2024-01-06,10.06,-4.1
+TX,48,Texas,2024-01-06,8.56,31.3
+UT,49,Utah,2024-01-06,7.92,7.2
+VA,51,Virginia,2024-01-06,11.65,-2
+VT,50,Vermont,2024-01-06,9.94,10.7
+WA,53,Washington,2024-01-06,5.71,19.8
+WI,55,Wisconsin,2024-01-06,13.02,2.4
+WV,54,West Virginia,2024-01-06,19.59,2.9
+WY,56,Wyoming,2024-01-06,7.43,-8.5
